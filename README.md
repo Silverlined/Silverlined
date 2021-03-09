@@ -2,15 +2,15 @@
 
 My name is Dimitriy, an electrical engineer based in the Netherlands. 
 
-:books: As a self taught developer, I'm constantly looking for ways to challenge myself and expand my skills. Life long learning, in my humble opinion, is a must in our world.
+:books: As a self taught developer, I'm constantly looking for ways to challenge myself and expand my skills. Life long learning, in my humble opinion, is a must in the world we live in.
   
 ### Projects
 
-I work on a wide variety of projects, most of them related to university (for now). I believe that open source software has enormous value and we'd never be able to give it the credit it actually deserves, so I think it's important to give back to the community however I can. Be sure to check out my repos and follow me to keep up with everything! 
+I work on a wide variety of projects, most of them related to university (for now). I believe that open source software has enormous value and we'd never be able to give it the credit it actually deserves, so I think it's important to give back to the community however I can.
 
 ### Tools
 
-<p align="left"><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/android/android-original.svg" alt="android" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" heigh="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<p align="left"><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/android/android-original.svg" alt="android" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/github/github-original.svg" alt="github" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" heigh="40"/>
 
 ### Keep in touch
 
