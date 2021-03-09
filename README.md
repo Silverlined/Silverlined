@@ -14,7 +14,7 @@ I work on a wide variety of projects, most of them related to university (for no
 
 ### Keep in touch
 
-- By [E-mail](mailto:d.v.georgiev@st.hanze.nl)
+- By [email](mailto:d.v.georgiev@st.hanze.nl)
 
 #### ToDo
 <!-- TODO-IST:START -->
