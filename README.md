@@ -1,6 +1,6 @@
 ### Привет :wave:
 
-My name is Dimitriy, an electrical engineer based in the Netherlands. 
+I'm Dimitriy, an electrical engineer based in the Netherlands. 
 
 :books: As a self taught developer, I'm constantly looking for ways to challenge myself and expand my skills. Life long learning, in my humble opinion, is a must in the world we live in.
   
