@@ -23,7 +23,7 @@ I work on a wide variety of projects, most of them related to university (for no
 :waning_crescent_moon:  Work in the aerospace industry           
 <!-- TODO-IST:END -->
 
+<!---
 #### Github
-
 ![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverlined&langs_count=10&layout=compact&hide=html,javascript,css,jupyter%20notebook&theme=dark)
-
+--->
