@@ -6,7 +6,7 @@ My name is Dimitriy, an electrical engineer based in the Netherlands.
   
 ### Projects
 
-I work on a wide variety of projects, most of them related to university (for now). I believe that open source software has enormous value and we'd never be able to give it the credit it actually deserves, so I think it's important to give back to the community however I can.
+I work on a wide variety of projects, most of them related to university (for now). I believe that open source software has enormous value and we'd never be able to give it the credit it actually deserves, so I think it's important to give back to the community however we can.
 
 ### Tools
 
