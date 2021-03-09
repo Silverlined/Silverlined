@@ -14,11 +14,9 @@ I work on a wide variety of projects, most of them related to university (for no
 
 ### Keep in touch
 
-- By [email](mailto:d.v.georgiev@st.hanze.nl)
+- By [E-mail](mailto:d.v.georgiev@st.hanze.nl)
 
-### Stats
-
-#### Todoist
+#### ToDo
 <!-- TODO-IST:START -->
 :snowflake:  Graduate with Bachelor's in Electrical & Electronics Engineering           
 :hourglass_flowing_sand:  Graduate with Master's in System Engineering        
