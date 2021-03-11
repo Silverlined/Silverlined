@@ -2,11 +2,13 @@
 
 I'm Dimitriy, a student of electrical and control systems engineering. 
 
+<!--
 :books: As a self taught developer, I'm constantly looking for ways to challenge myself and expand my skills. Life long learning, in my humble opinion, is a must in the world we live in.
-  
+-->
+
 ### Projects
 
-I work on a wide variety of projects, most of them related to university (for now). I believe that open source software has enormous value and we'd never be able to give it the credit it actually deserves, so I think it's important to give back to the community however we can.
+I work on a wide variety of projects, most of them related to university (for now). I believe that open source software/hardware has enormous value and we'd never be able to give it the credit it actually deserves, so I think it's important to give back to the community however we can.
 
 ### Tools
 
