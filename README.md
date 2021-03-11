@@ -18,7 +18,11 @@ I work on a wide variety of projects, most of them related to university (for no
 
 #### To Do
 <!-- TODO-IST:START -->
-         
+<!--
+:snowflake:  Graduate with Bachelor's in Electrical & Electronics Engineering           
+:hourglass_flowing_sand:  Graduate with Master's in System Engineering                 
+:waning_crescent_moon:  Work on aerospace projects
+-->
 <!-- TODO-IST:END -->
 
 <!---
