@@ -8,7 +8,7 @@ I'm Dimitriy, a student of electrical and control systems engineering.
 
 ### Projects
 
-I work on a wide variety of projects, most of them related to university (for now). I believe that open source software/hardware has enormous value and we'd never be able to give it the credit it actually deserves.
+Open source software/hardware has enormous value and we'd never be able to give it the credit it actually deserves. I work on a wide variety of projects, most of them related to university for now. 
 
 ### Tools
 
