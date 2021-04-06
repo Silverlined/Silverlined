@@ -14,7 +14,7 @@ Living in time of fundamental change, I'd rather be a participant than just a sp
 
 ### Get in touch
 
-- By [email](mailto:d.v.georgiev@st.hanze.nl)
+- [Email](mailto:d.v.georgiev@st.hanze.nl)
 
 <!-- TODO-IST:START -->
 <!--
