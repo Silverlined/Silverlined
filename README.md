@@ -16,7 +16,6 @@ Living in time of fundamental change, I'd rather be a participant than just a sp
 
 - By [email](mailto:d.v.georgiev@st.hanze.nl)
 
-#### To Do
 <!-- TODO-IST:START -->
 <!--
 :snowflake:  Graduate with Bachelor's in Electrical & Electronics Engineering           
