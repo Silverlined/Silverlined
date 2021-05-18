@@ -40,7 +40,9 @@ I work on a wide variety of projects, most of them related to university at the 
 -->
 <!-- TODO-IST:END -->
 
-<!---
+
 #### Github
-![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverlined&langs_count=10&layout=compact&hide=html,javascript,css,jupyter%20notebook&theme=dark)
---->
+
+![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverlined&langs_count=10&layout=compact&hide=html,java,javascript,css&theme=dark)
+
+  <!-- jupyter%20notebook -->
