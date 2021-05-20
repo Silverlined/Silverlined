@@ -7,7 +7,7 @@ I'm Dimitriy, a student of electrical and control systems engineering.
 
 I work on a wide variety of projects, most of them related to university at the moment.
 
-:books: As a self taught developer, I love open source lectures, hardware, and software. Life long learning is a must and open source definitely deserves a lot more credit.
+:books: As a self taught developer, I love open source lectures, hardware, and software. Life long learning is a must and open source definitely deserves a lot of credit.
 
 <!--Living in time of fundamental change, I'd rather be a participant than just a spectator.-->
 
