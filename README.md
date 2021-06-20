@@ -29,7 +29,7 @@ I work on a wide variety of projects, most of them related to university.
 
 ### Get in touch
 
-- [Email](mailto:d.v.georgiev@st.hanze.nl)
+- [LinkedIn](https://www.linkedin.com/in/dimitriy-georgiev-in/)
 
 <!-- TODO-IST:START -->
 <!--
