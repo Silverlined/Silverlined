@@ -7,6 +7,7 @@ I'm Dimitriy, a student of electrical and control systems engineering.
 I work on projects related to computer vision, optimal estimators, and software-defined radio.
 
 📚 As a self taught developer, I love the opencourseware movement.
+
 🤖 Fiddling with hardware brings me joy and I'll be damned if I don't help put more 🛰️ in orbit. 
 <!--Living in time of fundamental change, I'd rather be a participant than just a spectator.-->
 
