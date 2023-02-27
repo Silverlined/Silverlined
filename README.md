@@ -28,7 +28,7 @@ I work on projects related to computer vision, optimal estimators, and software-
   <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" alt="sourcetree" width="40" heigh="40"/>
 
 
-### Get in touch
+### Reach me at
 
 - [LinkedIn](https://www.linkedin.com/in/dimitriy-georgiev-in/)
 
