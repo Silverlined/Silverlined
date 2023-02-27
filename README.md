@@ -2,12 +2,12 @@
 
 I'm Dimitriy, a student of electrical and control systems engineering. 
 
-
 ### Projects
 
-I work on a wide variety of projects, most of them related to university.
+I work on projects related to computer vision, optimal estimators, and software-defined radio.
 
-:books: As a self taught developer, I love open source lectures, hardware, and software. 
+📚 As a self taught developer, I love the opencourseware movement.
+🤖 Fiddling with hardware brings me joy and I'll be damned if I don't help put more 🛰️ in orbit. 
 <!--Living in time of fundamental change, I'd rather be a participant than just a spectator.-->
 
 ### Tools
